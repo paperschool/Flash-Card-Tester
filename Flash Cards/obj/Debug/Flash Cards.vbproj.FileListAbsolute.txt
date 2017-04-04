@@ -1,0 +1,54 @@
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\bin\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Main.resources
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Resources.resources
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash Cards.pdb
+C:\Users\Dominic SSD\Dropbox\Coding Projects\Dom\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbprojResolveAssemblyReference.cache
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\bin\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbprojResolveAssemblyReference.cache
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Main.resources
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Resources.resources
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Desktop\Flash Cards\Flash Cards\obj\Debug\Flash Cards.pdb
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.pdb
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbprojResolveAssemblyReference.cache
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Main.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Resources.resources
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Main.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Resources.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbprojResolveAssemblyReference.cache
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe.config
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.exe
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.xml
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.pdb
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.exe
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Main.resources
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash_Cards.Resources.resources
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\obj\Debug\Flash Cards.vbproj.GenerateResource.Cache
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.pdb
+C:\Users\Overlord Main\Dropbox\CS\Non work\Visual Studio\Flash Cards\Flash Cards\bin\Debug\Flash Cards.xml
